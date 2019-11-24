@@ -1,0 +1,9 @@
+name: 'Wait for end of Unity editor execution'
+description: 'Wait for end of Unity editor execution'
+author: 'pCYSl5EDgo'
+inputs: 
+  project-path:
+    description: 'Unity Project Path'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'

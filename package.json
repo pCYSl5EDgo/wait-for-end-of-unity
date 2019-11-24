@@ -1,0 +1,24 @@
+{
+  "name": "wait-for-end-of-unity",
+  "version": "1.0.0",
+  "description": "Wait for unity execution.",
+  "main": "dist/index.js",
+  "dependencies": {
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pCYSl5EDgo/wait-for-end-of-unity.git"
+  },
+  "author": "pcysl5edgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pCYSl5EDgo/wait-for-end-of-unity/issues"
+  },
+  "homepage": "https://github.com/pCYSl5EDgo/wait-for-end-of-unity#readme"
+}
